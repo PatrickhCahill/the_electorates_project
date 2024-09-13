@@ -1,0 +1,758 @@
+Division,State,Party,Primary Vote,Name,Gender
+Bean,ACT,UAPP,0.02794421,Sean Conway,1
+Bean,ACT,ON,0.026453721,Benjamin Ambard,1
+Bean,ACT,ALP,0.405294692,David Smith,1
+Bean,ACT,GRN,0.143708851,Kathryn jane Savery,0
+Bean,ACT,LP,0.28863181,Jane Hiatt,0
+Canberra,ACT,UAPP,0.017948718,Catherine Smith,0
+Canberra,ACT,ON,0.016288967,James Miles,1
+Canberra,ACT,LP,0.213873816,Slade Minson,1
+Canberra,ACT,GRN,0.242525801,Tim Hollo,1
+Canberra,ACT,ALP,0.440844771,Alicia Payne,0
+Fenner,ACT,ALP,0.470079093,Andrew Leigh,1
+Fenner,ACT,LP,0.270919053,Nathan Kuster,1
+Fenner,ACT,UAPP,0.025006929,Timothy peter Elton,1
+Fenner,ACT,ON,0.025785064,Lucia Grant,0
+Fenner,ACT,GRN,0.163024708,Natasa Sojic,0
+Banks,NSW,LP,0.422151225,David Coleman,1
+Banks,NSW,UAPP,0.051199351,Marika Momircevski,0
+Banks,NSW,GRN,0.081778995,Natalie Hanna,0
+Banks,NSW,ON,0.026654496,Malcolm phillip Heffernan,1
+Banks,NSW,ALP,0.329215477,Zhi Soon,1
+Barton,NSW,ALP,0.466595306,Linda Burney,0
+Barton,NSW,UAPP,0.056660742,Dimitri Honos,1
+Barton,NSW,GRN,0.115532981,Taylor Vandijk,0
+Barton,NSW,LP,0.242274912,John Goody,1
+Barton,NSW,ON,0.044159228,Phillip Pollard,1
+Bennelong,NSW,GRN,0.107725614,Tony Adams,1
+Bennelong,NSW,LP,0.389551703,Simon Kennedy,1
+Bennelong,NSW,UAPP,0.027557715,Rhys ian Collyer,1
+Bennelong,NSW,ON,0.015731059,Victor Waterson,1
+Bennelong,NSW,ALP,0.355423623,Jerome Laxale,1
+Berowra,NSW,GRN,0.14625361,Tania Salitra,0
+Berowra,NSW,ON,0.029902706,Rhiannon Bosma,0
+Berowra,NSW,LP,0.460785399,Julian Leeser,1
+Berowra,NSW,ALP,0.208735373,Benson Koschinski,1
+Berowra,NSW,UAPP,0.023292316,Christopher Martinic,1
+Blaxland,NSW,ON,0.04828475,Adam Stepanoff,1
+Blaxland,NSW,LP,0.240921353,Oz Guney,1
+Blaxland,NSW,GRN,0.056650757,Linda Eisler,0
+Blaxland,NSW,ALP,0.490438069,Jason Clare,1
+Blaxland,NSW,UAPP,0.05575518,Elvis Sinosic,1
+Bradfield,NSW,ALP,0.168480861,David gordon Brigden,1
+Bradfield,NSW,GRN,0.089314195,Martin Cousins,1
+Bradfield,NSW,UAPP,0.024880383,Rob Fletcher,1
+Bradfield,NSW,LP,0.434230463,Paul Fletcher,1
+Bradfield,NSW,ON,0.015629984,Michael Lowe,1
+Calare,NSW,ON,0.081029578,Stacey Whittaker,0
+Calare,NSW,GRN,0.04375794,Kay Nankervis,0
+Calare,NSW,ALP,0.14540054,Sarah Elliott,0
+Calare,NSW,NP,0.457718253,Andrew Gee,1
+Calare,NSW,UAPP,0.036385922,Adam john Jannis,1
+Chifley,NSW,ON,0.056572286,Amit Batish,1
+Chifley,NSW,UAPP,0.048274892,Zvetanka Raskov,0
+Chifley,NSW,GRN,0.052709544,Sujan Selventhiran,1
+Chifley,NSW,LP,0.22544534,Jugandeep Singh,1
+Chifley,NSW,ALP,0.480367523,Ed Husic,1
+Cook,NSW,ON,0.048722084,Gaye Cameron,0
+Cook,NSW,GRN,0.094658652,Catherine Dyson,0
+Cook,NSW,LP,0.530928994,Scott Morrison,1
+Cook,NSW,UAPP,0.042818746,Jacqueline Guinane,0
+Cook,NSW,ALP,0.238909251,Simon Earle,1
+Cowper,NSW,ON,0.077320821,Faye Aspiotis,0
+Cowper,NSW,ALP,0.133035913,Keith Mcmullen,1
+Cowper,NSW,NP,0.375271354,Pat Conaghan,1
+Cowper,NSW,UAPP,0.022853529,Joshua stephen Fairhall,1
+Cowper,NSW,GRN,0.055706545,Timothy Nott,1
+Cunningham,NSW,LP,0.237141391,Marcus Uren,1
+Cunningham,NSW,UAPP,0.04605122,Ben Britton,1
+Cunningham,NSW,ALP,0.380491673,Alison Byrnes,0
+Cunningham,NSW,GRN,0.205355227,Dylan Green,1
+Cunningham,NSW,ON,0.048682185,Thomas Grogan,1
+Dobell,NSW,UAPP,0.035800351,Dean james Mackin,1
+Dobell,NSW,LP,0.321396758,Michael Feneley,1
+Dobell,NSW,GRN,0.081577541,Cath Connor,0
+Dobell,NSW,ON,0.071103735,Martin Stevenson,1
+Dobell,NSW,ALP,0.408778494,Emma Mcbride,0
+Eden-Monaro,NSW,ALP,0.397928177,Kristy Mcbain,0
+Eden-Monaro,NSW,UAPP,0.023627993,Darren scott Garnon,1
+Eden-Monaro,NSW,LP,0.308655617,Jerry Nockles,1
+Eden-Monaro,NSW,GRN,0.086335175,Vivian Harris,0
+Eden-Monaro,NSW,ON,0.040064457,Boyd Shannon,1
+Farrer,NSW,GRN,0.084189346,Eli Davern,1
+Farrer,NSW,LP,0.482974696,Sussan Ley,0
+Farrer,NSW,ON,0.058463037,Richard Francis,1
+Farrer,NSW,UAPP,0.030044654,Julie Ramos,0
+Farrer,NSW,ALP,0.175462614,Darren michael Cameron,1
+Fowler,NSW,ALP,0.322632056,Kristina Keneally,0
+Fowler,NSW,UAPP,0.057416069,Lela lepa Panich,0
+Fowler,NSW,LP,0.153540067,Courtney Nguyen,0
+Fowler,NSW,ON,0.031739253,Tony Margos,1
+Fowler,NSW,GRN,0.043655795,Avery Howard,2
+Gilmore,NSW,LP,0.401634225,Andrew Constance,1
+Gilmore,NSW,GRN,0.097685561,Carmel Mccallum,0
+Gilmore,NSW,UAPP,0.026592513,Jordan lindsay Maloney,1
+Gilmore,NSW,ON,0.038100535,Jerremy Eid,1
+Gilmore,NSW,ALP,0.343743316,Fiona Phillips,0
+Grayndler,NSW,UAPP,0.021210225,David bruce Smith,1
+Grayndler,NSW,ALP,0.512063883,Anthony Albanese,1
+Grayndler,NSW,LP,0.152550073,Ben Zhang,1
+Grayndler,NSW,ON,0.014628089,Paul Henselin,1
+Grayndler,NSW,GRN,0.210446616,Rachael Jacobs,0
+Greenway,NSW,UAPP,0.039794409,Mark andrew Rex,1
+Greenway,NSW,ALP,0.443234311,Michelle Rowland,0
+Greenway,NSW,ON,0.024740273,Rick Turner,1
+Greenway,NSW,LP,0.273256769,Pradeep Pathi,1
+Greenway,NSW,GRN,0.064689879,Damien Atkins,1
+Hughes,NSW,LP,0.416087506,Jenny Ware,0
+Hughes,NSW,GRN,0.060397252,Pete Thompson,1
+Hughes,NSW,UAPP,0.07094061,Craig Kelly,1
+Hughes,NSW,ON,0.025667351,Narelle Seymour,0
+Hughes,NSW,ALP,0.215487285,Riley Campbell,1
+Hume,NSW,ALP,0.18496126,Greg Baines,1
+Hume,NSW,UAPP,0.042375135,Garry trevor Dollin,1
+Hume,NSW,ON,0.068261201,Rebecca Thompson,0
+Hume,NSW,GRN,0.046045283,Karen Stewart,0
+Hume,NSW,LP,0.400498218,Angus Taylor,1
+Hunter,NSW,GRN,0.081987173,Janet Murray,0
+Hunter,NSW,ALP,0.355952258,Dan Repacholi,1
+Hunter,NSW,UAPP,0.037469561,Geoff Passfield,1
+Hunter,NSW,NP,0.253283946,James Thomson,1
+Hunter,NSW,ON,0.092250574,Dale Mcnamara,1
+Kingsford Smith,NSW,GRN,0.160734236,Stuart Davis,1
+Kingsford Smith,NSW,ON,0.029900625,Darrin Marr,1
+Kingsford Smith,NSW,UAPP,0.033203316,Anthony Tawaf,1
+Kingsford Smith,NSW,LP,0.273711754,Grace Tan,0
+Kingsford Smith,NSW,ALP,0.457643231,Matt Thistlethwaite,1
+Lindsay,NSW,ALP,0.295216927,Trevor Ross,1
+Lindsay,NSW,GRN,0.074715505,Pieter Morssink,1
+Lindsay,NSW,ON,0.055147582,Max Jago,1
+Lindsay,NSW,UAPP,0.037980085,Joseph O'connor,1
+Lindsay,NSW,LP,0.435090683,Melissa Mcintosh,0
+Lyne,NSW,UAPP,0.038506763,Joel Putland,1
+Lyne,NSW,NP,0.406415762,David Gillespie,1
+Lyne,NSW,ALP,0.200538276,Alex Simpson,1
+Lyne,NSW,ON,0.074052138,Josephine Cashman,0
+Lyne,NSW,GRN,0.073355341,Karl Attenborough,1
+Macarthur,NSW,GRN,0.071668907,Jayden Rivera,1
+Macarthur,NSW,LP,0.282759887,Binod Paudel,1
+Macarthur,NSW,ALP,0.425813831,Mike Freelander,1
+Macarthur,NSW,UAPP,0.055120937,Rosa antonia Sicari,0
+Macarthur,NSW,ON,0.074106852,Adam Zahra,1
+Mackellar,NSW,ON,0.025506683,Darren Dickson,1
+Mackellar,NSW,ALP,0.079339004,Paula Goodman,0
+Mackellar,NSW,LP,0.398473876,Jason Falinski,1
+Mackellar,NSW,UAPP,0.02800486,Christopher thomas Ball,1
+Mackellar,NSW,GRN,0.058634265,Ethan Hrnjak,1
+Macquarie,NSW,ON,0.049280436,Tony Pettitt,1
+Macquarie,NSW,ALP,0.408018141,Susan Templeman,0
+Macquarie,NSW,UAPP,0.027589088,Nicole Evans,0
+Macquarie,NSW,GRN,0.090654122,Tony Hickey,1
+Macquarie,NSW,LP,0.328005808,Sarah Richards,0
+McMahon,NSW,ALP,0.428875832,Chris Bowen,1
+McMahon,NSW,UAPP,0.081467104,Marie Saliba,0
+McMahon,NSW,ON,0.048650302,Scott Ford,1
+McMahon,NSW,LP,0.253230519,Vivek Singha,1
+McMahon,NSW,GRN,0.051920379,Astrid O'neill,0
+Mitchell,NSW,UAPP,0.034653641,Linda Daniel,0
+Mitchell,NSW,GRN,0.11323493,Matt Cox,1
+Mitchell,NSW,ALP,0.244212594,Immanuel Selvaraj,1
+Mitchell,NSW,ON,0.028830838,Donald Mckenzie,1
+Mitchell,NSW,LP,0.503681286,Alex Hawke,1
+New England,NSW,UAPP,0.024526338,Cindy anne Duncan,0
+New England,NSW,NP,0.491837403,Barnaby Joyce,1
+New England,NSW,ON,0.044041401,Richard Thomas,1
+New England,NSW,GRN,0.0725093,Carol Sparks,0
+New England,NSW,ALP,0.1740069,Laura Hughes,0
+Newcastle,NSW,GRN,0.189808803,Charlotte Mccabe,0
+Newcastle,NSW,UAPP,0.022540635,Amanda Cook,0
+Newcastle,NSW,ALP,0.416880849,Sharon Claydon,0
+Newcastle,NSW,LP,0.23119151,Katrina Wark,0
+Newcastle,NSW,ON,0.042600636,Mark james Watson,1
+North Sydney,NSW,UAPP,0.016918323,Robert Nalbandian,1
+North Sydney,NSW,GRN,0.081247066,Heather Armstrong,0
+North Sydney,NSW,LP,0.361406666,Trent Zimmerman,1
+North Sydney,NSW,ON,0.011236504,Michael Walls,1
+North Sydney,NSW,ALP,0.203753325,Catherine Renshaw,0
+Page,NSW,ON,0.050005338,Donna Pike,0
+Page,NSW,GRN,0.078846701,Kashmir Miller,0
+Page,NSW,ALP,0.173750979,Patrick Deegan,1
+Page,NSW,UAPP,0.021626575,Ian Williamson,1
+Page,NSW,NP,0.424355918,Kevin Hogan,1
+Parkes,NSW,ON,0.069035554,Deborah Swinbourn,0
+Parkes,NSW,NP,0.455238806,Mark Coulton,0
+Parkes,NSW,UAPP,0.024580056,Petrus Van der steen,1
+Parkes,NSW,ALP,0.186619828,Jack Ayoub,1
+Parkes,NSW,GRN,0.043667941,Trish Frail,0
+Parramatta,NSW,LP,0.31874973,Maria Kovacic,0
+Parramatta,NSW,ON,0.021734901,Heather Freeman,0
+Parramatta,NSW,UAPP,0.04613938,Julian Fayad,1
+Parramatta,NSW,GRN,0.081557218,Phil Bradley,1
+Parramatta,NSW,ALP,0.370260689,Andrew Charlton,1
+Paterson,NSW,ON,0.077362902,Neil Turner,1
+Paterson,NSW,LP,0.348203293,Brooke Vitnell,0
+Paterson,NSW,ALP,0.386070877,Meryl Swanson,0
+Paterson,NSW,GRN,0.071694746,Louise Ihlein,0
+Paterson,NSW,UAPP,0.036966958,Jason mark Olbourne,1
+Reid,NSW,ALP,0.38909674,Sally Sitou,0
+Reid,NSW,ON,0.019059708,Edward Walters,1
+Reid,NSW,LP,0.354336871,Fiona Martin,0
+Reid,NSW,UAPP,0.024146751,Jamal Daoud,1
+Reid,NSW,GRN,0.087653661,Charles Jago,1
+Richmond,NSW,ALP,0.268011716,Justine Elliot,0
+Richmond,NSW,NP,0.2173252,Kimberly Hone,0
+Richmond,NSW,ON,0.037991568,Tracey Bell-henselin,0
+Richmond,NSW,GRN,0.235206328,Mandy Nolan,0
+Richmond,NSW,UAPP,0.027255429,Robert james Marks,1
+Riverina,NSW,ON,0.075541528,Richard Orchard,1
+Riverina,NSW,ALP,0.189680437,Mark Jeffreson,1
+Riverina,NSW,UAPP,0.024281876,Daniel Martelozzo,1
+Riverina,NSW,NP,0.431635011,Michael Mccormack,1
+Riverina,NSW,GRN,0.059638543,Michael Organ,1
+Robertson,NSW,ALP,0.353528356,Gordon Reid,1
+Robertson,NSW,LP,0.375161001,Lucy Wicks,0
+Robertson,NSW,UAPP,0.027243277,Barbara-jane Murray,0
+Robertson,NSW,ON,0.035898287,Billy O'grady,1
+Robertson,NSW,GRN,0.094082979,Shelly Mcgrath,0
+Shortland,NSW,LP,0.301734635,Nell Mcgill,0
+Shortland,NSW,ALP,0.375915554,Pat Conroy,1
+Shortland,NSW,UAPP,0.029269618,Kenneth john Maxwell,1
+Shortland,NSW,GRN,0.092819812,Kim Grierson,0
+Shortland,NSW,ON,0.059916078,Quintin King,1
+Sydney,NSW,ALP,0.491540366,Tanya Plibersek,0
+Sydney,NSW,ON,0.017716462,Ben Ferguson,1
+Sydney,NSW,GRN,0.222576531,Chetan Sahai,1
+Sydney,NSW,UAPP,0.021552371,Ryan Mcalister,1
+Sydney,NSW,LP,0.190163565,Alexander Andruska,1
+Warringah,NSW,ON,0.02059004,Steven Tripp,1
+Warringah,NSW,UAPP,0.02289862,Andrew colin Robertson,1
+Warringah,NSW,GRN,0.071857159,Kristyn Glanville,0
+Warringah,NSW,LP,0.323710783,Katherine Deves,0
+Warringah,NSW,ALP,0.081174672,David Mickleburgh,1
+Watson,NSW,LP,0.239639052,Sazeda Akter,0
+Watson,NSW,UAPP,0.064503222,John Koukoulis,1
+Watson,NSW,ALP,0.468180095,Tony Burke,1
+Watson,NSW,ON,0.043991913,Alan Jorgensen,1
+Watson,NSW,GRN,0.086341237,Bradley Schott,1
+Wentworth,NSW,ALP,0.105855263,Tim Murray,1
+Wentworth,NSW,ON,0.009813596,Dean Fisher,1
+Wentworth,NSW,GRN,0.08125,Dominic wy Kanak,1
+Wentworth,NSW,UAPP,0.019879386,Natalie Dumer,0
+Wentworth,NSW,LP,0.394682018,Dave Sharma,1
+Werriwa,NSW,UAPP,0.078974488,Tony mark Nikolic,1
+Werriwa,NSW,ALP,0.359413225,Anne maree Stanley,0
+Werriwa,NSW,GRN,0.06068481,Apurva Shukla,0
+Werriwa,NSW,LP,0.276576488,Sam Kayal,1
+Werriwa,NSW,ON,0.045665947,Adam paul Booke,1
+Whitlam,NSW,ALP,0.428079392,Stephen Jones,1
+Whitlam,NSW,ON,0.065606137,Colin Hughes,1
+Whitlam,NSW,LP,0.268312836,Mike Cains,1
+Whitlam,NSW,UAPP,0.051194183,Allan Wode,1
+Whitlam,NSW,GRN,0.102449249,Jamie Dixon,1
+Lingiari,NT,CLP,0.321336865,Damien Ryan,1
+Lingiari,NT,GRN,0.101457773,Blair Mcfarland,1
+Lingiari,NT,UAPP,0.03805172,Allan Mcleod,1
+Lingiari,NT,ALP,0.338603692,Marion Scrymgour,0
+Lingiari,NT,ON,0.049940355,Tim Gallard,1
+Solomon,NT,GRN,0.142887146,Aiya Goodrich carttling,0
+Solomon,NT,ALP,0.381108233,Luke Gosling,1
+Solomon,NT,CLP,0.241021423,Tina Macfarlane,1
+Solomon,NT,ON,0.051596192,Emily Lohse,0
+Solomon,NT,UAPP,0.045995519,Tayla elise Selfe,0
+Blair,QLD,GRN,0.119123539,Danielle Mutton,0
+Blair,QLD,UAPP,0.057713097,Quinton stewart Cunningham,1
+Blair,QLD,ON,0.094650206,Liz Suduk,0
+Blair,QLD,ALP,0.331525541,Shayne Neumann,1
+Blair,QLD,LNP,0.27363984,Sam Biggins,1
+Bonner,QLD,LNP,0.436974535,Ross Vasta,1
+Bonner,QLD,ON,0.054339798,Amanda Neil,0
+Bonner,QLD,UAPP,0.032142532,Serge Diklich,1
+Bonner,QLD,ALP,0.288250827,Tabatha Young,0
+Bonner,QLD,GRN,0.16333303,Bernard Lakey,1
+Bowman,QLD,ON,0.074710943,Walter Todd,1
+Bowman,QLD,UAPP,0.063024528,Mary-jane Stevens,0
+Bowman,QLD,GRN,0.126421417,Ian Mazlin,1
+Bowman,QLD,LNP,0.411392345,Henry Pike,1
+Bowman,QLD,ALP,0.283510125,Donisha Duff,0
+Brisbane,QLD,UAPP,0.018918189,Justin marc Knudson,1
+Brisbane,QLD,GRN,0.266771668,Stephen Bates,1
+Brisbane,QLD,ALP,0.266870669,Madonna Jarrett,0
+Brisbane,QLD,LNP,0.369291693,Trevor Evans,1
+Brisbane,QLD,ON,0.021861219,Trevor Hold,1
+Capricornia,QLD,ON,0.137001539,Kylee Stanton,0
+Capricornia,QLD,GRN,0.055116637,Mick Jones,1
+Capricornia,QLD,ALP,0.263316562,Russell Robertson,1
+Capricornia,QLD,UAPP,0.036955799,Nathan luke Harding,1
+Capricornia,QLD,LNP,0.370212899,Michelle Landry,0
+Dawson,QLD,LNP,0.415318823,Andrew Willcox,1
+Dawson,QLD,ON,0.12724957,Julie Hall,0
+Dawson,QLD,ALP,0.234535175,Shane Hamilton,1
+Dawson,QLD,UAPP,0.038447201,Christian nigel Young,1
+Dawson,QLD,GRN,0.069117982,Paula Creen,0
+Dickson,QLD,LNP,0.404338753,Peter Dutton,1
+Dickson,QLD,ON,0.051560301,Tamera Gibson,0
+Dickson,QLD,UAPP,0.02637224,Alina karen Ward,0
+Dickson,QLD,ALP,0.304741568,Ali France,0
+Dickson,QLD,GRN,0.124930842,Vinnie Batten,0
+Fadden,QLD,ALP,0.213858556,Letitia Del fabbro,0
+Fadden,QLD,UAPP,0.063457311,Nathan grant O'brien,1
+Fadden,QLD,ON,0.083026481,Sandy Roach,0
+Fadden,QLD,LNP,0.426939049,Stuart Robert,1
+Fadden,QLD,GRN,0.102713266,Sally Spain,0
+Fairfax,QLD,LNP,0.424251538,Ted O'brien,1
+Fairfax,QLD,GRN,0.126334017,Sue Etheridge,0
+Fairfax,QLD,UAPP,0.055885167,Lisa Khoury,0
+Fairfax,QLD,ALP,0.206534518,Sue Ferguson,0
+Fairfax,QLD,ON,0.061954887,Nikki Civitarese,0
+Fisher,QLD,ON,0.090177105,Sam Schriever,1
+Fisher,QLD,ALP,0.225960508,Judene Andrews,0
+Fisher,QLD,LNP,0.428595658,Andrew Wallace,0
+Fisher,QLD,GRN,0.133730272,Renay Wells,0
+Fisher,QLD,UAPP,0.065655574,Tony richard Moore,1
+Flynn,QLD,ALP,0.322432097,Matt Burnett,1
+Flynn,QLD,GRN,0.041746976,Paul Bambrick,1
+Flynn,QLD,ON,0.117593741,Sharon Lohse,0
+Flynn,QLD,UAPP,0.065282394,Tanya maree Wieden,0
+Flynn,QLD,LNP,0.354708646,Colin Boyce,1
+Forde,QLD,UAPP,0.073746749,Roxanne O'halloran,0
+Forde,QLD,LNP,0.344052968,Bert Van manen,1
+Forde,QLD,GRN,0.091816426,Jordan Hall,1
+Forde,QLD,ALP,0.261064475,Rowan Holzberger,1
+Forde,QLD,ON,0.074663041,Seschelle Matterson,0
+Griffith,QLD,ON,0.032301183,Shari Ware,0
+Griffith,QLD,GRN,0.338968833,Max Chandler-mather,1
+Griffith,QLD,ALP,0.283640152,Terri Butler,0
+Griffith,QLD,UAPP,0.023792623,Robert gordon Mcmullan,1
+Griffith,QLD,LNP,0.301302556,Olivia Roberts,0
+Groom,QLD,ON,0.091115698,Grant Abraham,1
+Groom,QLD,GRN,0.055735297,Mickey Berry,2
+Groom,QLD,UAPP,0.04884778,Melissa Bannister,0
+Groom,QLD,LNP,0.416535996,Garth Hamilton,1
+Groom,QLD,ALP,0.178489907,Gen Allpass,0
+Herbert,QLD,ALP,0.203582132,John Ring,1
+Herbert,QLD,GRN,0.077432771,Scott Humphreys,1
+Herbert,QLD,LNP,0.442955004,Phillip Thompson,1
+Herbert,QLD,UAPP,0.024292034,Greg ian Dowling,1
+Herbert,QLD,ON,0.049685009,Diane Pepe,0
+Hinkler,QLD,LNP,0.407489722,Keith Pitt,1
+Hinkler,QLD,UAPP,0.070747923,Kristie Nash,0
+Hinkler,QLD,ON,0.084292759,Zak Menhennett,1
+Hinkler,QLD,ALP,0.225435676,Jason Scanes,1
+Hinkler,QLD,GRN,0.053053788,Andrew Mclean,1
+Kennedy,QLD,LNP,0.272663394,Bryce Macdonald,1
+Kennedy,QLD,GRN,0.062133816,Jennifer Cox,0
+Kennedy,QLD,ALP,0.155339706,Jason Brandon,1
+Kennedy,QLD,UAPP,0.042924309,Peter Campion,1
+Leichhardt,QLD,LNP,0.341915425,Warren Entsch,1
+Leichhardt,QLD,GRN,0.092895897,Phillip Musumeci,1
+Leichhardt,QLD,UAPP,0.036506066,Daniel lucas Hannagan,1
+Leichhardt,QLD,ON,0.069313771,Geena Court,0
+Leichhardt,QLD,ALP,0.257178273,Elida Faith,0
+Lilley,QLD,UAPP,0.032626748,Gerardine louise Hoogland,0
+Lilley,QLD,GRN,0.166239178,Melissa Stevens,0
+Lilley,QLD,LNP,0.290201166,Vivian Lobo,0
+Lilley,QLD,ALP,0.407087473,Anika Wells,0
+Lilley,QLD,ON,0.039574673,Michelle Wilde,0
+Longman,QLD,ALP,0.299238628,Rebecca Fanning,0
+Longman,QLD,UAPP,0.05230258,Stefanie alexis Sutherland,0
+Longman,QLD,GRN,0.068699337,Earl Snijders,1
+Longman,QLD,ON,0.078396722,Ross Taylor,1
+Longman,QLD,LNP,0.362689244,Terry Young,1
+Maranoa,QLD,LNP,0.543669369,David Littleproud,1
+Maranoa,QLD,ALP,0.147754517,Dave Kerrigan,1
+Maranoa,QLD,UAPP,0.064370154,Nathan john Mcdonald,1
+Maranoa,QLD,GRN,0.047047712,Ellisa Parker,0
+Maranoa,QLD,ON,0.114894809,Mike Kelly,1
+McPherson,QLD,LNP,0.411971008,Karen Andrews,0
+McPherson,QLD,ON,0.068320864,Kevin Hargraves,1
+McPherson,QLD,GRN,0.145847946,Scott Turner,1
+McPherson,QLD,UAPP,0.063225781,Joshua lawrence Berrigan,1
+McPherson,QLD,ALP,0.20803133,Carl Ungerer,1
+Moncrieff,QLD,LNP,0.432868193,Angie Bell,0
+Moncrieff,QLD,ON,0.066997447,Leeanne Schultz,0
+Moncrieff,QLD,GRN,0.113725791,April Broadbent,0
+Moncrieff,QLD,ALP,0.196069022,Glen Palmer,1
+Moncrieff,QLD,UAPP,0.052611374,Diane olga Happ,0
+Moreton,QLD,ON,0.035343188,Neil Swann,1
+Moreton,QLD,ALP,0.363864637,Graham Perrett,1
+Moreton,QLD,GRN,0.202246247,Claire Garton,0
+Moreton,QLD,LNP,0.32335235,Steven Huang,1
+Moreton,QLD,UAPP,0.032191299,Chelsea Follett,0
+Oxley,QLD,UAPP,0.05130614,Timothy Coombes,1
+Oxley,QLD,GRN,0.137331555,Asha Worsteling,0
+Oxley,QLD,LNP,0.276632927,Kyle Mcmillen,1
+Oxley,QLD,ON,0.056245833,Dylan Kozlowski,1
+Oxley,QLD,ALP,0.442299533,Milton Dick,1
+Petrie,QLD,UAPP,0.053556228,Kelly anne Guenoun,0
+Petrie,QLD,GRN,0.110200496,Will Simon,1
+Petrie,QLD,ON,0.05083042,Marcus Mitchell,1
+Petrie,QLD,ALP,0.289533262,Mick Denton,1
+Petrie,QLD,LNP,0.419511709,Luke Howarth,1
+Rankin,QLD,LNP,0.278829001,Paul Darwen,1
+Rankin,QLD,GRN,0.102807114,Neil Cotter,1
+Rankin,QLD,UAPP,0.055419973,Jeff Crank,1
+Rankin,QLD,ON,0.076673051,Glen Cookson,1
+Rankin,QLD,ALP,0.422391245,Jim Chalmers,1
+Ryan,QLD,UAPP,0.020125713,Kathryn Pollard,0
+Ryan,QLD,ON,0.021833763,Joel Love,1
+Ryan,QLD,GRN,0.292837901,Elizabeth Watson-brown,0
+Ryan,QLD,ALP,0.216151323,Peter Cossar,1
+Ryan,QLD,LNP,0.373223628,Julian Simmonds,1
+Wide Bay,QLD,ON,0.095480679,Nathan Buckley,1
+Wide Bay,QLD,UAPP,0.043081195,Tracy Bennett,0
+Wide Bay,QLD,GRN,0.088861076,Craig Armstrong,1
+Wide Bay,QLD,LNP,0.406768226,Llew O'brien,1
+Wide Bay,QLD,ALP,0.198930304,Geoff Williams,1
+Wright,QLD,LNP,0.417203144,Scott Buchholz,1
+Wright,QLD,UAPP,0.079359145,Cassandra deanne Duffill,0
+Wright,QLD,ON,0.137645214,Keith Hicks,1
+Wright,QLD,ALP,0.20647238,Pam Mccreadie,0
+Wright,QLD,GRN,0.110398847,Nicole Thompson,0
+Adelaide,SA,LP,0.307844576,Amy Grantham,0
+Adelaide,SA,ALP,0.384686268,Steve Georganas,1
+Adelaide,SA,UAPP,0.026066108,Sean Allwood,1
+Adelaide,SA,GRN,0.193392604,Rebecca Galdies,0
+Adelaide,SA,ON,0.028804969,Gayle Allwood,1
+Barker,SA,NP,0.022258768,Jonathan Pietzsch,1
+Barker,SA,ON,0.061191825,Carlos Quaremba,1
+Barker,SA,GRN,0.068957329,Rosa Hillam,0
+Barker,SA,LP,0.495391705,Tony Pasin,1
+Barker,SA,UAPP,0.037130193,David Swiggs,1
+Barker,SA,ALP,0.193952932,Mark Braes,1
+Boothby,SA,GRN,0.145256983,Jeremy Carter,1
+Boothby,SA,UAPP,0.021177182,Graeme Clark,1
+Boothby,SA,LP,0.363003798,Rachel Swift,0
+Boothby,SA,ALP,0.308800296,Louise Miller-frost,0
+Boothby,SA,ON,0.019496454,Bob Couch,1
+Grey,SA,GRN,0.063127302,Tim White,1
+Grey,SA,UAPP,0.052178858,Suzanne Waters,0
+Grey,SA,ALP,0.199184057,Julie Watson,0
+Grey,SA,ON,0.058235252,Kerry ann White,0
+Grey,SA,LP,0.421781356,Rowan Ramsey,1
+Hindmarsh,SA,GRN,0.130822275,Patrick O'sullivan,1
+Hindmarsh,SA,LP,0.308231293,Anna Finizio,0
+Hindmarsh,SA,ON,0.03709337,Walter Johnson,1
+Hindmarsh,SA,ALP,0.397739022,Mark Butler,1
+Hindmarsh,SA,UAPP,0.033290894,George Melissourgos,1
+Kingston,SA,ON,0.046729054,Robert Godfrey-brown,1
+Kingston,SA,UAPP,0.038004187,Russell Jackson,1
+Kingston,SA,ALP,0.473271298,Amanda Rishworth,0
+Kingston,SA,GRN,0.119641506,John Photakis,1
+Kingston,SA,LP,0.248667523,Kathleen Bourne,0
+Makin,SA,ALP,0.44391304,Tony Zappia,1
+Makin,SA,UAPP,0.041307078,Kimberley Drozdoff,0
+Makin,SA,ON,0.045395036,Rajan Vaid,1
+Makin,SA,LP,0.301386699,Alan Howard-jones,1
+Makin,SA,GRN,0.10969799,Emma Mustaca,0
+Mayo,SA,ALP,0.171999346,Marisa Bell,0
+Mayo,SA,GRN,0.111978103,Greg Elliott,1
+Mayo,SA,LP,0.256646785,Allison Bluck,0
+Mayo,SA,UAPP,0.033409592,Samantha Mcgrail,0
+Mayo,SA,ON,0.039014625,Tonya Scott,0
+Spence,SA,UAPP,0.064047387,Alvin eric Warren,1
+Spence,SA,ALP,0.416925403,Matt Burnell,1
+Spence,SA,GRN,0.10783726,David Deex,1
+Spence,SA,LP,0.242955951,Shawn Lock,1
+Spence,SA,ON,0.103184474,Linda Champion,0
+Sturt,SA,GRN,0.154879103,Katie Mccusker,0
+Sturt,SA,ALP,0.289783552,Sonja Baram,0
+Sturt,SA,ON,0.024280115,Alexander Allwood,1
+Sturt,SA,UAPP,0.025245277,Stephen Grant,1
+Sturt,SA,LP,0.407709545,James Stevens,1
+Bass,TAS,GRN,0.104397186,Cecily Rosol,0
+Bass,TAS,LP,0.373726571,Bridget kathleen Archer,0
+Bass,TAS,UAPP,0.015630784,Kyle Squibb,1
+Bass,TAS,ON,0.044287223,Melanie Davy,0
+Bass,TAS,ALP,0.269151139,Ross Hart,1
+Braddon,TAS,ON,0.040088417,Ludo Mineur,1
+Braddon,TAS,GRN,0.062061839,Darren Briggs,1
+Braddon,TAS,LP,0.407319242,Gavin Pearce,1
+Braddon,TAS,ALP,0.207779638,Chris Lynch,1
+Braddon,TAS,UAPP,0.013079418,Darren scott Bobbermien,1
+Clark,TAS,ON,0.024920806,Michelle Cameron,0
+Clark,TAS,ALP,0.179662298,Simon Davis,1
+Clark,TAS,LP,0.151719027,Will Coats,1
+Clark,TAS,GRN,0.128759917,Janet Shelley,0
+Clark,TAS,UAPP,0.013673748,Sandra Galloway,0
+Franklin,TAS,ALP,0.348835968,Julie Collins,0
+Franklin,TAS,ON,0.02712294,Steve Hindley,1
+Franklin,TAS,UAPP,0.018411047,Lisa Matthews,0
+Franklin,TAS,LP,0.254125809,Kristy maree Johnson,0
+Franklin,TAS,GRN,0.165032353,Jade Darko,0
+Lyons,TAS,LP,0.348741536,Susie Bower,0
+Lyons,TAS,ALP,0.272071036,Brian Mitchell,1
+Lyons,TAS,UAPP,0.025245944,Jason Evans,1
+Lyons,TAS,ON,0.05017248,Emma jane Goyne,0
+Lyons,TAS,GRN,0.107090839,Liz Johnstone,0
+Aston,VIC,UAPP,0.059026409,Rebekah jane Spelman,0
+Aston,VIC,LP,0.416436736,Alan Tudge,1
+Aston,VIC,GRN,0.116821048,Asher Cookson,1
+Aston,VIC,ON,0.029779267,Craig Ibbotson,1
+Aston,VIC,ALP,0.314830508,Mary Doyle,0
+Ballarat,VIC,GRN,0.138531036,John Barnes,1
+Ballarat,VIC,LP,0.257280359,Ben Green,1
+Ballarat,VIC,UAPP,0.036345206,Terri elizabeth Pryse-smith,0
+Ballarat,VIC,ON,0.034209568,Rosalie Taxis,0
+Ballarat,VIC,ALP,0.424873781,Catherine King,0
+Bendigo,VIC,ALP,0.414156437,Lisa Chesters,0
+Bendigo,VIC,LP,0.256666313,Darin Schade,1
+Bendigo,VIC,GRN,0.13546063,Cate Sinclair,0
+Bendigo,VIC,ON,0.053195291,Ben Mihail,1
+Bendigo,VIC,UAPP,0.03456535,Elijah Suares,1
+Bruce,VIC,UAPP,0.083314092,Matt Babet,1
+Bruce,VIC,ON,0.045617452,Hayley Deans,0
+Bruce,VIC,ALP,0.396703175,Julian Hill,1
+Bruce,VIC,LP,0.28949614,James Moody,1
+Bruce,VIC,GRN,0.093092128,Matthew Kirwan,1
+Calwell,VIC,ON,0.065664304,Mark Preston,1
+Calwell,VIC,LP,0.221684542,Tim Staker-gunn,1
+Calwell,VIC,GRN,0.091237778,Natalie Abboud,0
+Calwell,VIC,ALP,0.420275797,Maria Vamvakinou,0
+Calwell,VIC,UAPP,0.083532667,Joshua Naim,1
+Casey,VIC,GRN,0.12132903,Jenny Game,0
+Casey,VIC,LP,0.342015375,Aaron Violi,1
+Casey,VIC,ALP,0.233163645,Bill Brindle,1
+Casey,VIC,ON,0.030675713,Paul Murphy,1
+Casey,VIC,UAPP,0.045486624,Anthony sebastian Bellve,1
+Chisholm,VIC,LP,0.345948401,Gladys Liu,0
+Chisholm,VIC,ON,0.013595837,Aaron Tyrrell,1
+Chisholm,VIC,GRN,0.1197658,Sarah Newman,0
+Chisholm,VIC,UAPP,0.022659729,Melanie merle Kempson,0
+Chisholm,VIC,ALP,0.382026244,Carina Garland,0
+Cooper,VIC,GRN,0.26193078,Celeste Liddle,0
+Cooper,VIC,LP,0.156547759,Jadon Atkinson,1
+Cooper,VIC,UAPP,0.042586219,Adam La rosa,1
+Cooper,VIC,ON,0.028666551,William tristan Turner,1
+Cooper,VIC,ALP,0.395776101,Ged Kearney,0
+Corangamite,VIC,GRN,0.146104421,Alex Marshall,0
+Corangamite,VIC,ALP,0.367169578,Libby Coker,0
+Corangamite,VIC,LP,0.328047213,Stephanie Asher,0
+Corangamite,VIC,ON,0.024253962,Luke Sorensen,1
+Corangamite,VIC,UAPP,0.030774356,Daniel william Abou-zeid,1
+Corio,VIC,LP,0.232898274,Manish Patel,1
+Corio,VIC,GRN,0.141271936,Simon Northeast,1
+Corio,VIC,ON,0.037033778,Robert Jones,1
+Corio,VIC,UAPP,0.046741947,Shane Murdock,1
+Corio,VIC,ALP,0.399335191,Richard Marles,1
+Deakin,VIC,ALP,0.313732233,Matt Gregg,1
+Deakin,VIC,GRN,0.132813694,Rob Humphreys,1
+Deakin,VIC,LP,0.397619593,Michael Sukkar,1
+Deakin,VIC,UAPP,0.02709002,Bianca joy Gidley,0
+Deakin,VIC,ON,0.022027357,Natasha Coughlan,0
+Dunkley,VIC,ALP,0.383251055,Peta Murphy,0
+Dunkley,VIC,GRN,0.098515009,Liam O'brien,1
+Dunkley,VIC,LP,0.3096186,Sharn Coombes,0
+Dunkley,VIC,ON,0.026763675,Scott Middlebrook,1
+Dunkley,VIC,UAPP,0.048232343,Adrian kain Irvine,1
+Flinders,VIC,UAPP,0.042757843,Alex Van der end,1
+Flinders,VIC,ON,0.032250045,Cyndi Marr,0
+Flinders,VIC,LP,0.411257398,Zoe Mckenzie,0
+Flinders,VIC,GRN,0.088852556,Colin Lane,1
+Flinders,VIC,ALP,0.205442255,Surbhi Snowball,0
+Fraser,VIC,LP,0.235888708,David Wood,1
+Fraser,VIC,ALP,0.401955188,Daniel Mulino,1
+Fraser,VIC,GRN,0.177233056,Bella Mitchell-sears,0
+Fraser,VIC,UAPP,0.042424683,Keith james aaron Raymond,1
+Fraser,VIC,ON,0.027968327,Sabine De pyle,0
+Gellibrand,VIC,GRN,0.15724367,Suzette Rodoreda,0
+Gellibrand,VIC,LP,0.256577183,Monica Clark,0
+Gellibrand,VIC,UAPP,0.052411118,Abraham Isac,1
+Gellibrand,VIC,ON,0.028908652,Rob Braddock,1
+Gellibrand,VIC,ALP,0.406309968,Tim Watts,1
+Gippsland,VIC,ON,0.090816415,Greg Hansford,1
+Gippsland,VIC,NP,0.525442637,Darren Chester,1
+Gippsland,VIC,UAPP,0.044172381,Gregory emil Forster,1
+Gippsland,VIC,GRN,0.082180056,Marjorie Thorpe,0
+Gippsland,VIC,ALP,0.186614605,Jannette Langley,0
+Goldstein,VIC,GRN,0.075639435,Alana Galli-mcrostie,0
+Goldstein,VIC,ON,0.012198003,Lisa Stark,0
+Goldstein,VIC,UAPP,0.018114872,Catherine frances Reynolds,0
+Goldstein,VIC,LP,0.389932463,Tim Wilson,1
+Goldstein,VIC,ALP,0.106316577,Martyn Abbott,1
+Gorton,VIC,ON,0.067512032,Daniel Connor,1
+Gorton,VIC,GRN,0.083649006,Praise Morris,0
+Gorton,VIC,UAPP,0.07115943,Michael Virag,1
+Gorton,VIC,ALP,0.383609819,Brendan O'connor,1
+Gorton,VIC,LP,0.254714991,John Fletcher,1
+Hawke,VIC,ALP,0.337340259,Sam Rae,1
+Hawke,VIC,LP,0.241890454,Enamul Haque,1
+Hawke,VIC,GRN,0.082017299,Lynda Wheelock,0
+Hawke,VIC,ON,0.051327974,Nick Suduk,1
+Hawke,VIC,UAPP,0.064591915,Andrew glenn Cuthbertson,1
+Higgins,VIC,UAPP,0.019504502,Ingram magnus Spencer,1
+Higgins,VIC,LP,0.395370606,Katie Allen,0
+Higgins,VIC,ALP,0.276613929,Michelle Ananda-rajah,0
+Higgins,VIC,GRN,0.220094623,Sonya Semmens,0
+Holt,VIC,ALP,0.381884507,Cassandra Fernando,0
+Holt,VIC,UAPP,0.090325158,Gerardine Hansen,0
+Holt,VIC,ON,0.045152066,Sandy Ambard,0
+Holt,VIC,GRN,0.079717839,Sujit Mathew,1
+Holt,VIC,LP,0.276210801,Ranj Perera,1
+Hotham,VIC,ALP,0.45370103,Clare O'neil,0
+Hotham,VIC,GRN,0.119434017,Louisa Willoughby,0
+Hotham,VIC,UAPP,0.056492444,Bruce scott Ridgway,1
+Hotham,VIC,ON,0.028164405,Roger Tull,1
+Hotham,VIC,LP,0.243266917,Savitri Bevinakoppa,0
+Indi,VIC,UAPP,0.023807751,Stephen Williams,1
+Indi,VIC,ON,0.049942296,Beth Stevens,0
+Indi,VIC,GRN,0.033747813,Benjamin Gilbert,1
+Indi,VIC,NP,0.035869848,Liz Fisher,0
+Indi,VIC,ALP,0.081186479,Nadia David,0
+Indi,VIC,LP,0.288475857,Ross Lyman,1
+Isaacs,VIC,ON,0.0308174,Boris Sokiransky,1
+Isaacs,VIC,ALP,0.386231613,Mark Dreyfus,1
+Isaacs,VIC,LP,0.30823307,Robbie Beaton,1
+Isaacs,VIC,GRN,0.124264025,Alex Breskin,1
+Isaacs,VIC,UAPP,0.04780143,Scott anson Mccamish,1
+Jagajaga,VIC,ALP,0.393478137,Kate Thwaites,0
+Jagajaga,VIC,UAPP,0.03318891,Allison Zelinka,0
+Jagajaga,VIC,GRN,0.160148604,Liz Chase,0
+Jagajaga,VIC,ON,0.021606522,John Booker,1
+Jagajaga,VIC,LP,0.280628242,Sahil Tomar,1
+Kooyong,VIC,UAPP,0.009577219,Scott andrew Hardiman,1
+Kooyong,VIC,ON,0.007019505,Josh Coyne,1
+Kooyong,VIC,LP,0.414311833,Josh Frydenberg,1
+Kooyong,VIC,ALP,0.067173157,Peter Lynch,1
+Kooyong,VIC,GRN,0.061205157,Piers Mitchem,1
+La Trobe,VIC,LP,0.434569185,Jason Wood,1
+La Trobe,VIC,ON,0.047371432,Hadden Ervin,1
+La Trobe,VIC,GRN,0.103790755,Michael Schilling,1
+La Trobe,VIC,UAPP,0.064292028,Merryn Mott,0
+La Trobe,VIC,ALP,0.248744215,Abhimanyu Kumar,1
+Lalor,VIC,UAPP,0.06725078,Juanita coral Paterson,0
+Lalor,VIC,ALP,0.414186308,Joanne Ryan,0
+Lalor,VIC,ON,0.037009144,James Ingarfill,1
+Lalor,VIC,GRN,0.097503023,Jack Boddeke,1
+Lalor,VIC,LP,0.234242739,Ravi Gaddipati,1
+Macnamara,VIC,LP,0.280028651,Colleen Harkin,0
+Macnamara,VIC,ALP,0.306769228,Josh Burns,1
+Macnamara,VIC,ON,0.014003509,Debera Anne,0
+Macnamara,VIC,GRN,0.286371233,Steph Hodgins-may,0
+Macnamara,VIC,UAPP,0.021404918,Jane elizabeth Hickey,0
+Mallee,VIC,NP,0.463227557,Anne Webster,0
+Mallee,VIC,ALP,0.158138118,Carole Hart,0
+Mallee,VIC,GRN,0.050423658,Sam Mccoll,1
+Mallee,VIC,UAPP,0.085571616,Stuart william King,1
+Mallee,VIC,ON,0.063696443,Vanessa Atkinson,0
+Maribyrnong,VIC,ALP,0.402406836,Bill Shorten,1
+Maribyrnong,VIC,ON,0.02252111,Jodie Tindal,0
+Maribyrnong,VIC,UAPP,0.034717096,Darren Besanko,1
+Maribyrnong,VIC,LP,0.25780452,Mira D'silva,0
+Maribyrnong,VIC,GRN,0.154502705,Rhonda Pryor,0
+McEwen,VIC,GRN,0.13573271,Neil Barker,1
+McEwen,VIC,UAPP,0.05493943,Paul joseph Mcrae,1
+McEwen,VIC,ON,0.054066261,Chris Bradbury,1
+McEwen,VIC,LP,0.3191184,Richard Welch,1
+McEwen,VIC,ALP,0.3536638,Rob Mitchell,1
+Melbourne,VIC,UAPP,0.017176052,Justin Borg,1
+Melbourne,VIC,ALP,0.242766259,Keir Paterson,1
+Melbourne,VIC,GRN,0.481241017,Adam Bandt,1
+Melbourne,VIC,LP,0.147338164,James Damches,1
+Melbourne,VIC,ON,0.00941718,Walter Stragan,1
+Menzies,VIC,ALP,0.322254584,Naomi Oakley,0
+Menzies,VIC,ON,0.02215111,John Hayes,1
+Menzies,VIC,LP,0.407438634,Keith Wolahan,1
+Menzies,VIC,GRN,0.13690191,Bill Pheasant,1
+Menzies,VIC,UAPP,0.034903328,Nathan Scaglione,1
+Monash,VIC,GRN,0.093954506,Mat Morgan,1
+Monash,VIC,LP,0.360186864,Russell Broadbent,1
+Monash,VIC,ON,0.071838287,Allan Hicken,1
+Monash,VIC,ALP,0.244017583,Jessica O'donnell,0
+Monash,VIC,UAPP,0.039334148,Christine ann Mcshane,0
+Nicholls,VIC,NP,0.24079342,Sam Birrell,1
+Nicholls,VIC,ON,0.060174165,Rikkie-lee Tyrrell,0
+Nicholls,VIC,ALP,0.10614417,Bill Lodwick,1
+Nicholls,VIC,UAPP,0.036971456,Robert Peterson,1
+Nicholls,VIC,GRN,0.029588776,Ian Christoe,1
+Nicholls,VIC,LP,0.166298984,Steve Brooks,1
+Scullin,VIC,GRN,0.103016064,Patchouli Paterson,0
+Scullin,VIC,ON,0.061138942,Ursula Van bree,0
+Scullin,VIC,ALP,0.436232094,Andrew Giles,1
+Scullin,VIC,UAPP,0.07704728,Yassin Albarri,1
+Scullin,VIC,LP,0.204727995,Virosh Perera,1
+Wannon,VIC,LP,0.421240066,Dan Tehan,1
+Wannon,VIC,ON,0.030692383,Ronnie Graham,1
+Wannon,VIC,GRN,0.060391363,Hilary Mcallister,0
+Wannon,VIC,UAPP,0.031001649,Craige Kensen,1
+Wannon,VIC,ALP,0.180902309,Gilbert Wilson,1
+Wills,VIC,LP,0.164190603,Tom Wright,1
+Wills,VIC,ON,0.026589487,Jill Tindal,0
+Wills,VIC,UAPP,0.0348974,Irene Zivkovic,0
+Wills,VIC,ALP,0.369056667,Peter Khalil,1
+Wills,VIC,GRN,0.268528833,Sarah Jefford,0
+Brand,WA,ALP,0.469823539,Madeleine King,0
+Brand,WA,LP,0.205962908,Peter Hudson,1
+Brand,WA,UAPP,0.026518116,David Pike,1
+Brand,WA,GRN,0.106620236,Heather Lonsdale,0
+Brand,WA,ON,0.050268018,Jake Taylor,1
+Burt,WA,ON,0.045626125,Travis Carter,1
+Burt,WA,UAPP,0.023389046,Joshua Mccurry,1
+Burt,WA,GRN,0.092609925,Daniel Garlett,1
+Burt,WA,LP,0.216086398,David Goode,1
+Burt,WA,ALP,0.486171252,Matt Keogh,1
+Canning,WA,LP,0.409573307,Andrew Hastie,1
+Canning,WA,ALP,0.306450973,Amanda Hunt,0
+Canning,WA,ON,0.041806352,Tammi Siwes,0
+Canning,WA,UAPP,0.02418123,James gordon Waldeck,1
+Canning,WA,GRN,0.075965563,Jodie Moffat,0
+Cowan,WA,ALP,0.433630701,Anne Aly,0
+Cowan,WA,GRN,0.091243281,Isabella Tripp,0
+Cowan,WA,ON,0.026354632,Tyler Walsh,1
+Cowan,WA,UAPP,0.022492875,Claire elizabeth Hand,0
+Cowan,WA,LP,0.281536905,Vince Connelly,1
+Curtin,WA,UAPP,0.016861913,Ladeisha louise Verhoeff,0
+Curtin,WA,LP,0.400405867,Celia Hammond,0
+Curtin,WA,ON,0.012083756,Dale marie Grillo,1
+Curtin,WA,ALP,0.135172032,Yannick Spencer,1
+Curtin,WA,GRN,0.100442764,Cameron Pidgeon,1
+Durack,WA,LP,0.321029433,Melissa Price,0
+Durack,WA,ALP,0.27253452,Jeremiah Riley,1
+Durack,WA,ON,0.064485806,Brenton Johannsen,1
+Durack,WA,NP,0.09567379,Ian Blayney,1
+Durack,WA,GRN,0.08833114,Bianca Mcneair,0
+Durack,WA,UAPP,0.023281319,Andrew charles Middleton,1
+Forrest,WA,UAPP,0.024181651,Helen Allan,0
+Forrest,WA,GRN,0.127387265,Christine Terrantroy,0
+Forrest,WA,ALP,0.260077349,Bronwen English,0
+Forrest,WA,ON,0.050037877,Shane Mezger,1
+Forrest,WA,LP,0.408735696,Nola Marino,0
+Fremantle,WA,ALP,0.414218183,Josh Wilson,1
+Fremantle,WA,UAPP,0.019216357,Stella Jinman,0
+Fremantle,WA,LP,0.228184631,Bill Koul,1
+Fremantle,WA,GRN,0.170929495,Felicity Townsend,0
+Fremantle,WA,ON,0.029401026,William Edgar,1
+Hasluck,WA,GRN,0.103801716,Brendan Sturcke,1
+Hasluck,WA,UAPP,0.028505681,Will Scott,1
+Hasluck,WA,ON,0.036272113,Ian Monck,1
+Hasluck,WA,LP,0.315345894,Ken Wyatt,1
+Hasluck,WA,ALP,0.375320006,Tania Lawrence,0
+Moore,WA,ALP,0.313790385,Tom French,1
+Moore,WA,GRN,0.136620338,Mark Cooper,1
+Moore,WA,LP,0.400693095,Ian Goodenough,1
+Moore,WA,ON,0.032463603,Brian Brightman,1
+Moore,WA,UAPP,0.021471268,Helen Watkinson,0
+O'Connor,WA,ON,0.066582866,Stan Kustrin,1
+O'Connor,WA,ALP,0.250954942,Shaneane Weldon,0
+O'Connor,WA,GRN,0.100210477,Giz Watson,0
+O'Connor,WA,UAPP,0.016779701,Tracy anne Tirronen,0
+O'Connor,WA,LP,0.421879872,Rick Wilson,1
+Pearce,WA,GRN,0.102902531,Donna Nelson,0
+Pearce,WA,ALP,0.401059058,Tracey Roberts,0
+Pearce,WA,UAPP,0.025034083,Trevor richard Dalby,1
+Pearce,WA,ON,0.042431487,Aaron Malloy,1
+Pearce,WA,LP,0.280373832,Linda Aitken,0
+Perth,WA,ON,0.02542804,Cameron Bailey,1
+Perth,WA,ALP,0.370607442,Patrick Gorman,1
+Perth,WA,UAPP,0.014846128,Sonya michelle Eberhart,0
+Perth,WA,GRN,0.209242524,Caroline Perks,0
+Perth,WA,LP,0.252467417,David Dwyer,1
+Swan,WA,UAPP,0.024976085,Paul Hilton,1
+Swan,WA,ALP,0.370161298,Zaneta Mascarenhas,0
+Swan,WA,ON,0.024095244,Peter Hallifax,1
+Swan,WA,LP,0.30399409,Kristy Mcsweeney,0
+Swan,WA,GRN,0.140754492,Clint Uink,1
+Tangney,WA,ON,0.020461639,Tshung-hui Chang,1
+Tangney,WA,UAPP,0.015390944,Travis llewellyn Mark,1
+Tangney,WA,ALP,0.366127402,Sam Lim,1
+Tangney,WA,LP,0.384621576,Ben Morton,1
+Tangney,WA,GRN,0.115150377,Adam Abdul razak,1
